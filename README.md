@@ -17,5 +17,5 @@
 </div>
 
 <h2 align="center"> 📖 Cursos e Bootcamps </h2>
-<p>🔹 Análise e desenvolmiento de Sistemas - Fiap</p>
+<p>🔹 Análise e desenvolmento de Sistemas - Fiap</p>
 <p>🔹 Santander Bootcamp 2024</p>
